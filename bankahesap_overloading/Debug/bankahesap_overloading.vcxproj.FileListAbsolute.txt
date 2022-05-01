@@ -1,0 +1,2 @@
+D:\opp_projeler\bankahesap_overloading\Debug\bankahesap_overloading.exe
+D:\opp_projeler\bankahesap_overloading\Debug\bankahesap_overloading.pdb
